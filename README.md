@@ -1,6 +1,6 @@
 # Zumra test
 
-## installation
+## Installation
 
 - install nodejs, Mysql and npm
 
